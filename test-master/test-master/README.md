@@ -1,2 +1,2 @@
-# java ee
-## brahim id hajoub
+# Learning JEE
+# project: Gestion ressources humaine
